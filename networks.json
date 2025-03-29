@@ -2,7 +2,7 @@
     {
       "id": "max-folder",
       "name": "Max",
-      "category": "Genres",
+      "category": "Networks",
       "catalogIds": [],
       "displayMode": "Grid",
       "layout": "Poster",
@@ -19,7 +19,7 @@
     {
       "id": "crunchyroll-folder",
       "name": "Crunchyroll",
-      "category": "Genres",
+      "category": "Networks",
       "catalogIds": [],
       "displayMode": "Grid",
       "layout": "Poster",
@@ -36,7 +36,7 @@
     {
       "id": "disney-folder",
       "name": "Disney",
-      "category": "Genres",
+      "category": "Networks",
       "catalogIds": [],
       "displayMode": "Grid",
       "layout": "Poster",
@@ -53,7 +53,7 @@
     {
       "id": "hulu-folder",
       "name": "Hulu",
-      "category": "Genres",
+      "category": "Networks",
       "catalogIds": [],
       "displayMode": "Grid",
       "layout": "Poster",
@@ -70,7 +70,7 @@
     {
       "id": "netflix-folder",
       "name": "Netflix",
-      "category": "Genres",
+      "category": "Networks",
       "catalogIds": [],
       "displayMode": "Grid",
       "layout": "Poster",
@@ -87,7 +87,7 @@
     {
       "id": "prime-folder",
       "name": "Prime",
-      "category": "Genres",
+      "category": "Networks",
       "catalogIds": [],
       "displayMode": "Grid",
       "layout": "Poster",
@@ -104,7 +104,7 @@
     {
       "id": "paramount-folder",
       "name": "Paramount",
-      "category": "Genres",
+      "category": "Networks",
       "catalogIds": [],
       "displayMode": "Grid",
       "layout": "Poster",
@@ -121,7 +121,7 @@
     {
       "id": "peackock-folder",
       "name": "Peackock",
-      "category": "Genres",
+      "category": "Networks",
       "catalogIds": [],
       "displayMode": "Grid",
       "layout": "Poster",
@@ -138,7 +138,7 @@
     {
       "id": "bet-folder",
       "name": "BET",
-      "category": "Genres",
+      "category": "Networks",
       "catalogIds": [],
       "displayMode": "Grid",
       "layout": "Poster",
@@ -155,7 +155,7 @@
     {
       "id": "mubi-folder",
       "name": "Mubi",
-      "category": "Genres",
+      "category": "Networks",
       "catalogIds": [],
       "displayMode": "Grid",
       "layout": "Poster",
